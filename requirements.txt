@@ -1,0 +1,10 @@
+azure-cognitiveservices-nspkg==3.0.1
+azure-cognitiveservices-search-nspkg==3.0.1
+azure-cognitiveservices-search-websearch==1.0.0
+azure-common==1.1.24
+azure-nspkg==3.0.2
+beautifulsoup4==4.7.1
+beautifultable==0.7.0
+clint==0.5.1
+colorama==0.4.3
+requests==2.20.0
