@@ -7,4 +7,4 @@ beautifulsoup4==4.7.1
 beautifultable==0.7.0
 clint==0.5.1
 colorama==0.4.3
-requests==2.20.0
+requests==2.31.0
